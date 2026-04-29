@@ -1,0 +1,3 @@
+free -h → melihat penggunaan RAM
+htop → monitoring sistem
+lscpu → informasi CPU
