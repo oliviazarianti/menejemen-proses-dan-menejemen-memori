@@ -1,0 +1,8 @@
+cd → pindah folder
+mkdir tan → membuat folder
+ls → melihat isi folder
+nano tes.py → membuat file python
+python3 tes.py → menjalankan python
+nano tan.sh → membuat shell script
+chmod +x tan.sh → memberi izin
+./tan.sh → menjalankan script
